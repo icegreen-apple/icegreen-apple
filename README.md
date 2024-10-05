@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi，要Github一辈子 👋
 
 <!--
 **icegreen-apple/icegreen-apple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
